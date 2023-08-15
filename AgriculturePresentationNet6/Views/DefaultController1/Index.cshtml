@@ -1,0 +1,73 @@
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+	@await Component.InvokeAsync("_HeadPartial")
+
+<body>
+<!-- header -->
+	<div class="header">
+		<div class="container">
+			@await Component.InvokeAsync("_TopAddressPartial")
+
+			@await Component.InvokeAsync("_SocialMediaPartial")
+
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+<!-- //header -->
+		<!--Slider-->
+	@await Component.InvokeAsync("_NavBarPartial")
+
+		<div class="modal fade" id="myModal1" tabindex="-1" role="dialog">
+						<!-- Modal1 -->
+							<div class="modal-dialog">
+							<!-- Modal content-->
+								<div class="modal-content">
+									<div class="modal-header">
+										<button type="button" class="close" data-dismiss="modal">&times;</button>
+										<h4>Bereketli Tarım</h4>
+					<img src="~/web/images/banner1.jpg" alt=" " class="img-responsive">
+										<h5>ÇEVRECİLİK VE SÜRDÜRÜLEBİLİRLİK</h5>
+					<p>
+						Tarım, günümüzde çevrecilik ve sürdürülebilirlik ilkelerinin öne çıktığı kritik bir alan haline gelmiştir. Doğanın korunması, verimli kaynak kullanımı ve biyoçeşitliliğin sürdürülmesi, tarımın temel amaçları arasında yer alır. Aynı zamanda, küreselleşme ile tarım sektörü uluslararası boyutta etkileşim göstermekte; farklı bölgelerdeki üretim ve tüketim dinamiklerini birbirine bağlamaktadır. Bu bağlamda, tarımın geleceği hem çevreyle uyum içinde hem de global işbirliğiyle şekillenmeye devam edecektir.
+					</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+@await Component.InvokeAsync("_AboutPartial")
+
+@await Component.InvokeAsync("_ServicePartial")
+
+@await Component.InvokeAsync("_TeamPartial")
+
+@await Component.InvokeAsync("_AnnouncementPartial")
+
+@await Component.InvokeAsync("_GalleryPartial")
+
+<!--footer-->
+<div class="contact-agile" id="contact">
+			<div class="container">
+
+			@await Component.InvokeAsync("_AddressPartial")
+
+			@await Html.PartialAsync("/Views/DefaultController1/SendMessage.cshtml")
+
+			</div>
+		</div>
+
+			@await Component.InvokeAsync("_MapPartial")
+
+			<div class="copy">
+		<p>© @DateTime.Now.Year Tarıma Dair . Tüm Hakları Saklıdır | Design by <a href="https://www.linkedin.com/in/ertugrul-gokay-duman-egdx86">EGD</a> </p>
+		    </div>
+<!-- js -->
+	@await Html.PartialAsync("/Views/DefaultController1/ScriptPartial.cshtml")
+</body>
+</html>

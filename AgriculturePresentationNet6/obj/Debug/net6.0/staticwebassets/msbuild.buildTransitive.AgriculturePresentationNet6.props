@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AgriculturePresentationNet6.props" />
+</Project>
