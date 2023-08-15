@@ -11,7 +11,6 @@
 ![Ekran görüntüsü 2023-08-10 104613](https://github.com/ErtugrulGDuman/Tarim-Hizmetleri-Sunum-Sitesi-ASP.NET/assets/101699189/66fbe90e-09d9-4b54-b0fd-d860cd0c25bb)
 ![Ekran görüntüsü 2023-08-10 104652](https://github.com/ErtugrulGDuman/Tarim-Hizmetleri-Sunum-Sitesi-ASP.NET/assets/101699189/7061a948-b8bb-4571-9497-49eb6f4d9437)
 ![Ekran görüntüsü 2023-08-10 104730](https://github.com/ErtugrulGDuman/Tarim-Hizmetleri-Sunum-Sitesi-ASP.NET/assets/101699189/7ddb19c9-8ef4-4042-ae7d-e20c319ff1b3)
-![UC-d76a1977-f629-4eca-a599-2b0243b21164](https://github.com/ErtugrulGDuman/Tarim-Hizmetleri-Sunum-Sitesi-ASP.NET/assets/101699189/3113f5ac-e90b-473c-b6d4-2c58df379e0c)
 ![Ekran görüntüsü 2023-08-10 103951](https://github.com/ErtugrulGDuman/Tarim-Hizmetleri-Sunum-Sitesi-ASP.NET/assets/101699189/3090fac0-3875-4f70-8ed5-3872a284b1e1)
 ![Ekran görüntüsü 2023-08-10 104037](https://github.com/ErtugrulGDuman/Tarim-Hizmetleri-Sunum-Sitesi-ASP.NET/assets/101699189/3cbf775e-d0cd-4ca5-beb0-a5e8d66a7541)
 ![Ekran görüntüsü 2023-08-10 104105](https://github.com/ErtugrulGDuman/Tarim-Hizmetleri-Sunum-Sitesi-ASP.NET/assets/101699189/c312717b-a925-40ab-9d33-98a24b188322)
