@@ -1,0 +1,11 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\bin\Debug\HasanFinalDeneme3.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\bin\Debug\HasanFinalDeneme3.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\bin\Debug\HasanFinalDeneme3.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\obj\Debug\HasanFinalDeneme3.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\obj\Debug\HasanFinalDeneme3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\obj\Debug\HasanFinalDeneme3.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\obj\Debug\HasanFinalDeneme3.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\obj\Debug\HasanFinalDeneme3.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\obj\Debug\HasanFinalDeneme3.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\obj\Debug\HasanFinalDeneme3.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanFinalDeneme3\HasanFinalDeneme3\obj\Debug\HasanFinalDeneme3.pdb

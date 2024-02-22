@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cdafcd3a255c4671a9be442290a98c92" Name="Diagram1">
+        <EntityTypeShape EntityType="DovizCekmeXmlModel.TblCurrency" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="DovizCekmeXmlModel.TblCurrencyValue" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DovizCekmeXmlModel.TblOperation" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="DovizCekmeXmlModel.FK_TblCurrencyValue_TblCurrency" ManuallyRouted="false" />
+        <AssociationConnector Association="DovizCekmeXmlModel.FK_TblOperation_TblCurrency" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

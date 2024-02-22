@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\bin\Debug\net6.0\HasanVize8.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\bin\Debug\net6.0\HasanVize8.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\bin\Debug\net6.0\HasanVize8.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\bin\Debug\net6.0\HasanVize8.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\bin\Debug\net6.0\HasanVize8.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\HasanVize8.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\HasanVize8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\HasanVize8.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\HasanVize8.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\HasanVize8.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\HasanVize8.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\refint\HasanVize8.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\HasanVize8.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\HasanVize8.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize8\HasanVize8\obj\Debug\net6.0\ref\HasanVize8.dll

@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Business\\Northwind.Business.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Business\\Northwind.Business.csproj",
+        "projectName": "Northwind.Business",
+        "projectPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Business\\Northwind.Business.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.DataAccsess\\Northwind.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.DataAccsess\\Northwind.DataAccess.csproj"
+              },
+              "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Entities\\Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Entities\\Northwind.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.DataAccsess\\Northwind.DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.DataAccsess\\Northwind.DataAccess.csproj",
+        "projectName": "Northwind.DataAccess",
+        "projectPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.DataAccsess\\Northwind.DataAccess.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Entities\\Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Entities\\Northwind.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Entities\\Northwind.Entities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Entities\\Northwind.Entities.csproj",
+        "projectName": "Northwind.Entities",
+        "projectPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Entities\\Northwind.Entities.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
+        "projectName": "Northwind.WebFormsUI",
+        "projectPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj",
+        "packagesPath": "C:\\Users\\Ertugrul Gokay Duman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.WebFormsUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ertugrul Gokay Duman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Business\\Northwind.Business.csproj": {
+                "projectPath": "C:\\Users\\Ertugrul Gokay Duman\\source\\repos\\NLayerdAppDemo\\Northwind.Business\\Northwind.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

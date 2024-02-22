@@ -1,0 +1,6 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\EntityUrunProje\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\EntityUrunProje\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\EntityUrunProje\EntityUrunProje\obj\Debug\EntityUrunProje.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\EntityUrunProje\EntityUrunProje\obj\Debug\EntityUrunProje.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\EntityUrunProje\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\EntityUrunProje\EntityUrunProje\obj\Debug\EntityUrunProje.csproj.CoreCompileInputs.cache

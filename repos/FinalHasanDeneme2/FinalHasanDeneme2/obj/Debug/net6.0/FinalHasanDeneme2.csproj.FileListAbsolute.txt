@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\FinalHasanDeneme2.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\FinalHasanDeneme2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\FinalHasanDeneme2.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\FinalHasanDeneme2.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\FinalHasanDeneme2.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\bin\Debug\net6.0\FinalHasanDeneme2.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\bin\Debug\net6.0\FinalHasanDeneme2.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\bin\Debug\net6.0\FinalHasanDeneme2.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\bin\Debug\net6.0\FinalHasanDeneme2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\bin\Debug\net6.0\FinalHasanDeneme2.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\FinalHasanDeneme2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\refint\FinalHasanDeneme2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\FinalHasanDeneme2.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\FinalHasanDeneme2.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme2\FinalHasanDeneme2\obj\Debug\net6.0\ref\FinalHasanDeneme2.dll

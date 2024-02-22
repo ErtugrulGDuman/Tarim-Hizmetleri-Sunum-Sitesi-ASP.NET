@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\bin\Debug\NotBilgiSistemi.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\bin\Debug\NotBilgiSistemi.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\bin\Debug\NotBilgiSistemi.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.FrmGiris.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.FrmOgrenci.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.FrmOgretmen.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.FrmDuyuru.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\NotBilgiSistemi\NotBilgiSistemi\obj\Debug\NotBilgiSistemi.FrmDuyurularOgr.resources

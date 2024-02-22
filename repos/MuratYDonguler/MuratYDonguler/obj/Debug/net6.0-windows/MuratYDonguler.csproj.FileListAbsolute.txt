@@ -1,0 +1,17 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\bin\Debug\net6.0-windows\MuratYDonguler.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\bin\Debug\net6.0-windows\MuratYDonguler.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\bin\Debug\net6.0-windows\MuratYDonguler.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\bin\Debug\net6.0-windows\MuratYDonguler.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\bin\Debug\net6.0-windows\MuratYDonguler.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\refint\MuratYDonguler.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\MuratYDonguler.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYDonguler\MuratYDonguler\obj\Debug\net6.0-windows\ref\MuratYDonguler.dll

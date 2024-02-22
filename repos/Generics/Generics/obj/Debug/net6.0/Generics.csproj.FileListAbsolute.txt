@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\bin\Debug\net6.0\Generics.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\bin\Debug\net6.0\Generics.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\bin\Debug\net6.0\Generics.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\bin\Debug\net6.0\Generics.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\refint\Generics.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Generics\Generics\obj\Debug\net6.0\ref\Generics.dll

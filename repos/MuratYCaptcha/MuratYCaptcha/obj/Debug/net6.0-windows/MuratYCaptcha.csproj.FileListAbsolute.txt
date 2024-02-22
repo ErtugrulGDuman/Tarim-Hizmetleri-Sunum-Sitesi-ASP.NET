@@ -1,0 +1,17 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\bin\Debug\net6.0-windows\MuratYCaptcha.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\bin\Debug\net6.0-windows\MuratYCaptcha.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\bin\Debug\net6.0-windows\MuratYCaptcha.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\bin\Debug\net6.0-windows\MuratYCaptcha.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\bin\Debug\net6.0-windows\MuratYCaptcha.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\refint\MuratYCaptcha.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\MuratYCaptcha.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYCaptcha\MuratYCaptcha\obj\Debug\net6.0-windows\ref\MuratYCaptcha.dll

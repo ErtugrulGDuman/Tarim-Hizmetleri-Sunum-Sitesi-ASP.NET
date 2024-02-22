@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuratYEnum", "MuratYEnum\MuratYEnum.csproj", "{66C82AD2-57FD-413F-B502-F312204A62EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C82AD2-57FD-413F-B502-F312204A62EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C82AD2-57FD-413F-B502-F312204A62EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C82AD2-57FD-413F-B502-F312204A62EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C82AD2-57FD-413F-B502-F312204A62EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E6124F-8427-428D-8547-DE8E8636E66B}
+	EndGlobalSection
+EndGlobal

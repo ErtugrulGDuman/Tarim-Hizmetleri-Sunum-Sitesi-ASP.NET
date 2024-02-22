@@ -1,0 +1,13 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\bin\Debug\Kitaplik.mdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\bin\Debug\MuratYKitaplikProje.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\bin\Debug\MuratYKitaplikProje.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\bin\Debug\MuratYKitaplikProje.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\obj\Debug\MuratYKitaplikProje.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\obj\Debug\MuratYKitaplikProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\obj\Debug\MuratYKitaplikProje.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\obj\Debug\MuratYKitaplikProje.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\obj\Debug\MuratYKitaplikProje.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\obj\Debug\MuratYKitaplikProje.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\obj\Debug\MuratYKitaplikProje.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\obj\Debug\MuratYKitaplikProje.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYKitaplikProje\MuratYKitaplikProje\bin\Debug\Kitaplik1.accdb

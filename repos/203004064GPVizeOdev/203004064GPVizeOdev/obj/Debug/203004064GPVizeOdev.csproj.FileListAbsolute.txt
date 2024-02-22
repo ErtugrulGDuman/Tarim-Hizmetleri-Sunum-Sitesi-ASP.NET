@@ -1,0 +1,17 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\bin\Debug\203004064GPVizeOdev.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\bin\Debug\203004064GPVizeOdev.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\bin\Debug\203004064GPVizeOdev.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\203004064GPVizeOdev.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\203004064GPVizeOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\_203004064GPVizeOdev.AnaSayfa.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\_203004064GPVizeOdev.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\203004064GPVizeOdev.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\203004064GPVizeOdev.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\203004064GPVizeOdev.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\203004064GPVizeOdev.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\_203004064GPVizeOdev.FrmAsiriYukleme.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\_203004064GPVizeOdev.FrmCokBoyutluDizi.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\_203004064GPVizeOdev.FrmDegerDonenMetot.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\_203004064GPVizeOdev.FrmDegerDonmeyenMetot.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\_203004064GPVizeOdev.FrmOzyineleme.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\203004064GPVizeOdev\203004064GPVizeOdev\obj\Debug\_203004064GPVizeOdev.FrmTekBoyutluDizi.resources

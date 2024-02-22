@@ -1,0 +1,6 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo1\RecapDemo1\obj\Debug\MainWindow.g.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo1\RecapDemo1\obj\Debug\App.g.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1_MarkupCompile.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1_MarkupCompile.lref

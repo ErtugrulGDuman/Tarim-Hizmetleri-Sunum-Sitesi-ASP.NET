@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\bin\Debug\net6.0\RecapDemo2.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\bin\Debug\net6.0\RecapDemo2.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\bin\Debug\net6.0\RecapDemo2.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\bin\Debug\net6.0\RecapDemo2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\bin\Debug\net6.0\RecapDemo2.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\RecapDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\RecapDemo2.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\RecapDemo2.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\RecapDemo2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\refint\RecapDemo2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\RecapDemo2.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\RecapDemo2.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\RecapDemo2\RecapDemo2\obj\Debug\net6.0\ref\RecapDemo2.dll

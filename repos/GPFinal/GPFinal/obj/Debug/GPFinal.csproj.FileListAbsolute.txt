@@ -1,0 +1,11 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\bin\Debug\GPFinal.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\bin\Debug\GPFinal.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\bin\Debug\GPFinal.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\obj\Debug\GPFinal.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\obj\Debug\GPFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\obj\Debug\GPFinal.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\obj\Debug\GPFinal.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\obj\Debug\GPFinal.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\obj\Debug\GPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\obj\Debug\GPFinal.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\GPFinal\GPFinal\obj\Debug\GPFinal.pdb

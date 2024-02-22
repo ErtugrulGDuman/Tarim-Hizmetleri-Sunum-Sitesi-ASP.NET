@@ -1,0 +1,11 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\bin\Debug\FinalDenemeHasan.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\bin\Debug\FinalDenemeHasan.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\bin\Debug\FinalDenemeHasan.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\obj\Debug\FinalDenemeHasan.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\obj\Debug\FinalDenemeHasan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\obj\Debug\FinalDenemeHasan.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\obj\Debug\FinalDenemeHasan.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\obj\Debug\FinalDenemeHasan.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\obj\Debug\FinalDenemeHasan.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\obj\Debug\FinalDenemeHasan.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalDenemeHasan\FinalDenemeHasan\obj\Debug\FinalDenemeHasan.pdb

@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ConsoleApp4dlgrn.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ConsoleApp4dlgrn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ConsoleApp4dlgrn.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ConsoleApp4dlgrn.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ConsoleApp4dlgrn.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\bin\Debug\net7.0\ConsoleApp4dlgrn.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\bin\Debug\net7.0\ConsoleApp4dlgrn.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\bin\Debug\net7.0\ConsoleApp4dlgrn.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\bin\Debug\net7.0\ConsoleApp4dlgrn.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\bin\Debug\net7.0\ConsoleApp4dlgrn.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ConsoleApp4dlgrn.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\refint\ConsoleApp4dlgrn.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ConsoleApp4dlgrn.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ConsoleApp4dlgrn.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\ConsoleApp4dlgrn\ConsoleApp4dlgrn\obj\Debug\net7.0\ref\ConsoleApp4dlgrn.dll

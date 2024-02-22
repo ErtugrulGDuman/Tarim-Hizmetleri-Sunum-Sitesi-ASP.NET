@@ -1,0 +1,17 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\bin\Debug\net6.0-windows\MuratYPoint.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\bin\Debug\net6.0-windows\MuratYPoint.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\bin\Debug\net6.0-windows\MuratYPoint.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\bin\Debug\net6.0-windows\MuratYPoint.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\bin\Debug\net6.0-windows\MuratYPoint.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\refint\MuratYPoint.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\MuratYPoint.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYPoint\MuratYPoint\obj\Debug\net6.0-windows\ref\MuratYPoint.dll

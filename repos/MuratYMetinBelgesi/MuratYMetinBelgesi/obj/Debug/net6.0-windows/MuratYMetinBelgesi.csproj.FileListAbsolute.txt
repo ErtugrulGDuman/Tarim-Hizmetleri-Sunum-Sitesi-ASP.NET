@@ -1,0 +1,17 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\bin\Debug\net6.0-windows\MuratYMetinBelgesi.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\bin\Debug\net6.0-windows\MuratYMetinBelgesi.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\bin\Debug\net6.0-windows\MuratYMetinBelgesi.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\bin\Debug\net6.0-windows\MuratYMetinBelgesi.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\bin\Debug\net6.0-windows\MuratYMetinBelgesi.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\refint\MuratYMetinBelgesi.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\MuratYMetinBelgesi.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYMetinBelgesi\MuratYMetinBelgesi\obj\Debug\net6.0-windows\ref\MuratYMetinBelgesi.dll

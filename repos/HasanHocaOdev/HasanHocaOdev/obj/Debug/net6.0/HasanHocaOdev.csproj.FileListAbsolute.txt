@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\bin\Debug\net6.0\HasanHocaOdev.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\bin\Debug\net6.0\HasanHocaOdev.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\bin\Debug\net6.0\HasanHocaOdev.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\bin\Debug\net6.0\HasanHocaOdev.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\bin\Debug\net6.0\HasanHocaOdev.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\HasanHocaOdev.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\HasanHocaOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\HasanHocaOdev.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\HasanHocaOdev.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\HasanHocaOdev.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\HasanHocaOdev.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\refint\HasanHocaOdev.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\HasanHocaOdev.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\HasanHocaOdev.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanHocaOdev\HasanHocaOdev\obj\Debug\net6.0\ref\HasanHocaOdev.dll

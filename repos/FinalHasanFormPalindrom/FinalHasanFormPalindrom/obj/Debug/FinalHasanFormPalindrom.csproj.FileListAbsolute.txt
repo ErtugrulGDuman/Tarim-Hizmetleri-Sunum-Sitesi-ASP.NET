@@ -1,0 +1,11 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\bin\Debug\FinalHasanFormPalindrom.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\bin\Debug\FinalHasanFormPalindrom.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\bin\Debug\FinalHasanFormPalindrom.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\obj\Debug\FinalHasanFormPalindrom.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\obj\Debug\FinalHasanFormPalindrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\obj\Debug\FinalHasanFormPalindrom.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\obj\Debug\FinalHasanFormPalindrom.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\obj\Debug\FinalHasanFormPalindrom.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\obj\Debug\FinalHasanFormPalindrom.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\obj\Debug\FinalHasanFormPalindrom.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFormPalindrom\FinalHasanFormPalindrom\obj\Debug\FinalHasanFormPalindrom.pdb

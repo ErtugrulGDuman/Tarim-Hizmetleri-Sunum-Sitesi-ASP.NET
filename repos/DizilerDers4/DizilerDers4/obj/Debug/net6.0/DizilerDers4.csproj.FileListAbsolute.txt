@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\bin\Debug\net6.0\DizilerDers4.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\bin\Debug\net6.0\DizilerDers4.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\bin\Debug\net6.0\DizilerDers4.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\bin\Debug\net6.0\DizilerDers4.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\bin\Debug\net6.0\DizilerDers4.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\DizilerDers4.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\DizilerDers4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\DizilerDers4.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\DizilerDers4.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\DizilerDers4.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\DizilerDers4.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\refint\DizilerDers4.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\DizilerDers4.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\DizilerDers4.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\DizilerDers4\DizilerDers4\obj\Debug\net6.0\ref\DizilerDers4.dll

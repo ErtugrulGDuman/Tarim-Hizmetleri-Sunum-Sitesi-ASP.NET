@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\VituralMethods.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\VituralMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\VituralMethods.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\VituralMethods.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\VituralMethods.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\bin\Debug\net6.0\VituralMethods.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\bin\Debug\net6.0\VituralMethods.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\bin\Debug\net6.0\VituralMethods.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\bin\Debug\net6.0\VituralMethods.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\bin\Debug\net6.0\VituralMethods.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\VituralMethods.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\refint\VituralMethods.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\VituralMethods.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\VituralMethods.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\VituralMethods\VituralMethods\obj\Debug\net6.0\ref\VituralMethods.dll

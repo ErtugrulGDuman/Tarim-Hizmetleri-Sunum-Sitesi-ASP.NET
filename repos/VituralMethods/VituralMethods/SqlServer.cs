@@ -1,0 +1,19 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class SqlServer : Database
+{
+
+}

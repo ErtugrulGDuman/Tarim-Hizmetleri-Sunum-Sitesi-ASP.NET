@@ -1,0 +1,17 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\bin\Debug\net6.0-windows\CanSıkıntısı.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\bin\Debug\net6.0-windows\CanSıkıntısı.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\bin\Debug\net6.0-windows\CanSıkıntısı.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\bin\Debug\net6.0-windows\CanSıkıntısı.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\bin\Debug\net6.0-windows\CanSıkıntısı.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\refint\CanSıkıntısı.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\CanSıkıntısı.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\CanSıkıntısı\CanSıkıntısı\obj\Debug\net6.0-windows\ref\CanSıkıntısı.dll

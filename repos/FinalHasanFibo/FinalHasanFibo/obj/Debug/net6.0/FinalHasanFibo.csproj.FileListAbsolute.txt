@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\bin\Debug\net6.0\FinalHasanFibo.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\bin\Debug\net6.0\FinalHasanFibo.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\bin\Debug\net6.0\FinalHasanFibo.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\bin\Debug\net6.0\FinalHasanFibo.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\bin\Debug\net6.0\FinalHasanFibo.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\FinalHasanFibo.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\FinalHasanFibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\FinalHasanFibo.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\FinalHasanFibo.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\FinalHasanFibo.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\FinalHasanFibo.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\refint\FinalHasanFibo.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\FinalHasanFibo.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\FinalHasanFibo.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanFibo\FinalHasanFibo\obj\Debug\net6.0\ref\FinalHasanFibo.dll

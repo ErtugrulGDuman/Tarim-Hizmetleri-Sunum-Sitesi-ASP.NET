@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\bin\Debug\net6.0\HCalisma1.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\bin\Debug\net6.0\HCalisma1.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\bin\Debug\net6.0\HCalisma1.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\bin\Debug\net6.0\HCalisma1.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\bin\Debug\net6.0\HCalisma1.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\HCalisma1.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\HCalisma1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\HCalisma1.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\HCalisma1.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\HCalisma1.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\HCalisma1.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\refint\HCalisma1.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\HCalisma1.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\HCalisma1.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HCalisma1\HCalisma1\obj\Debug\net6.0\ref\HCalisma1.dll

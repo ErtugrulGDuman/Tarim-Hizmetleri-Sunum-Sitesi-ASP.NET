@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\bin\Debug\net6.0\Odev5.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\bin\Debug\net6.0\Odev5.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\bin\Debug\net6.0\Odev5.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\bin\Debug\net6.0\Odev5.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\bin\Debug\net6.0\Odev5.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\Odev5.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\Odev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\Odev5.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\Odev5.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\Odev5.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\Odev5.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\refint\Odev5.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\Odev5.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\Odev5.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Odev5\Odev5\obj\Debug\net6.0\ref\Odev5.dll

@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\bin\Debug\net6.0\SayiTahmin.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\bin\Debug\net6.0\SayiTahmin.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\bin\Debug\net6.0\SayiTahmin.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\bin\Debug\net6.0\SayiTahmin.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\bin\Debug\net6.0\SayiTahmin.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\SayiTahmin.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\SayiTahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\SayiTahmin.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\SayiTahmin.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\SayiTahmin.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\refint\SayiTahmin.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\SayiTahmin.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\SayiTahmin.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\SayiTahmin\SayiTahmin\obj\Debug\net6.0\ref\SayiTahmin.dll

@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\bin\Debug\net6.0\Stringss.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\bin\Debug\net6.0\Stringss.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\bin\Debug\net6.0\Stringss.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\bin\Debug\net6.0\Stringss.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\bin\Debug\net6.0\Stringss.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\Stringss.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\Stringss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\Stringss.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\Stringss.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\Stringss.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\Stringss.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\refint\Stringss.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\Stringss.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\Stringss.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Stringss\Stringss\obj\Debug\net6.0\ref\Stringss.dll

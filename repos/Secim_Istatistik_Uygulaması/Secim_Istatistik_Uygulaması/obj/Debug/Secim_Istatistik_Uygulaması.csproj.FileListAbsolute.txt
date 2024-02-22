@@ -1,0 +1,12 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\bin\Debug\Secim_Istatistik_Uygulaması.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\bin\Debug\Secim_Istatistik_Uygulaması.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\bin\Debug\Secim_Istatistik_Uygulaması.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.FrmOyGiris.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.FrmGrafik.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\Secim_Istatistik_Uygulaması\Secim_Istatistik_Uygulaması\obj\Debug\Secim_Istatistik_Uygulaması.pdb

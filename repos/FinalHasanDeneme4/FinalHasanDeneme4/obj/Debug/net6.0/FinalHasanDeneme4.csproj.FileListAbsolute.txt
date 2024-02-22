@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\bin\Debug\net6.0\FinalHasanDeneme4.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\bin\Debug\net6.0\FinalHasanDeneme4.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\bin\Debug\net6.0\FinalHasanDeneme4.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\bin\Debug\net6.0\FinalHasanDeneme4.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\bin\Debug\net6.0\FinalHasanDeneme4.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\FinalHasanDeneme4.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\FinalHasanDeneme4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\FinalHasanDeneme4.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\FinalHasanDeneme4.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\FinalHasanDeneme4.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\FinalHasanDeneme4.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\refint\FinalHasanDeneme4.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\FinalHasanDeneme4.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\FinalHasanDeneme4.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanDeneme4\FinalHasanDeneme4\obj\Debug\net6.0\ref\FinalHasanDeneme4.dll

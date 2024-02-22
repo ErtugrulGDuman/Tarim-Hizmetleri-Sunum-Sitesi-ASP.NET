@@ -1,0 +1,17 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\bin\Debug\net6.0-windows\MuratYSql01.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\bin\Debug\net6.0-windows\MuratYSql01.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\bin\Debug\net6.0-windows\MuratYSql01.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\bin\Debug\net6.0-windows\MuratYSql01.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\bin\Debug\net6.0-windows\MuratYSql01.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\refint\MuratYSql01.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\MuratYSql01.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratYSql01\MuratYSql01\obj\Debug\net6.0-windows\ref\MuratYSql01.dll

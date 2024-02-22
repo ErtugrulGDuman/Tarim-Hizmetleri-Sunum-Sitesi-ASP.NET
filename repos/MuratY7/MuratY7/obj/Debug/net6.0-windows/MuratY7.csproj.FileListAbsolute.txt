@@ -1,0 +1,17 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\bin\Debug\net6.0-windows\MuratY7.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\bin\Debug\net6.0-windows\MuratY7.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\bin\Debug\net6.0-windows\MuratY7.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\bin\Debug\net6.0-windows\MuratY7.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\bin\Debug\net6.0-windows\MuratY7.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\refint\MuratY7.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\MuratY7.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\MuratY7\MuratY7\obj\Debug\net6.0-windows\ref\MuratY7.dll

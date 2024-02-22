@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\bin\Debug\net6.0\HasanVize3.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\bin\Debug\net6.0\HasanVize3.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\bin\Debug\net6.0\HasanVize3.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\bin\Debug\net6.0\HasanVize3.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\bin\Debug\net6.0\HasanVize3.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\HasanVize3.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\HasanVize3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\HasanVize3.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\HasanVize3.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\HasanVize3.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\HasanVize3.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\refint\HasanVize3.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\HasanVize3.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\HasanVize3.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize3\HasanVize3\obj\Debug\net6.0\ref\HasanVize3.dll

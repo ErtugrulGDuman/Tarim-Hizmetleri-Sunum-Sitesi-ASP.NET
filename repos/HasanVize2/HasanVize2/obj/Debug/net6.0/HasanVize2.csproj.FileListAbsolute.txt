@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\bin\Debug\net6.0\HasanVize2.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\bin\Debug\net6.0\HasanVize2.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\bin\Debug\net6.0\HasanVize2.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\bin\Debug\net6.0\HasanVize2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\bin\Debug\net6.0\HasanVize2.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\HasanVize2.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\HasanVize2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\HasanVize2.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\HasanVize2.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\HasanVize2.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\HasanVize2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\refint\HasanVize2.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\HasanVize2.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\HasanVize2.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\HasanVize2\HasanVize2\obj\Debug\net6.0\ref\HasanVize2.dll

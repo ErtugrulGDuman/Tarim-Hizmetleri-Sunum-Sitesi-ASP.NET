@@ -1,0 +1,11 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\bin\Debug\FinalHasanListBoxSıralama.exe.config
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\bin\Debug\FinalHasanListBoxSıralama.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\bin\Debug\FinalHasanListBoxSıralama.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\obj\Debug\FinalHasanListBoxSıralama.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\obj\Debug\FinalHasanListBoxSıralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\obj\Debug\FinalHasanListBoxSıralama.Form1.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\obj\Debug\FinalHasanListBoxSıralama.Properties.Resources.resources
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\obj\Debug\FinalHasanListBoxSıralama.csproj.GenerateResource.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\obj\Debug\FinalHasanListBoxSıralama.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\obj\Debug\FinalHasanListBoxSıralama.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\FinalHasanListBoxSıralama\FinalHasanListBoxSıralama\obj\Debug\FinalHasanListBoxSıralama.pdb

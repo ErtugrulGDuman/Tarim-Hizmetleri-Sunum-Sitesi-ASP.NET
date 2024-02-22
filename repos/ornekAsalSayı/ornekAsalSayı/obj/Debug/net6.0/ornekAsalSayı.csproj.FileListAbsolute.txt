@@ -1,0 +1,15 @@
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\bin\Debug\net6.0\ornekAsalSayı.exe
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\bin\Debug\net6.0\ornekAsalSayı.deps.json
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\bin\Debug\net6.0\ornekAsalSayı.runtimeconfig.json
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\bin\Debug\net6.0\ornekAsalSayı.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\bin\Debug\net6.0\ornekAsalSayı.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ornekAsalSayı.csproj.AssemblyReference.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ornekAsalSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ornekAsalSayı.AssemblyInfoInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ornekAsalSayı.AssemblyInfo.cs
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ornekAsalSayı.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ornekAsalSayı.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\refint\ornekAsalSayı.dll
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ornekAsalSayı.pdb
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ornekAsalSayı.genruntimeconfig.cache
+C:\Users\Ertugrul Gokay Duman\source\repos\ornekAsalSayı\ornekAsalSayı\obj\Debug\net6.0\ref\ornekAsalSayı.dll
